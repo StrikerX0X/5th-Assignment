@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Ubuntu:wght@300;400;700&display=swap');
+/* font-family: 'Playfair Display', serif; */
+/* font-family: 'Ubuntu', sans-serif */
+*{
+    margin: 0%;
+    padding: 0%;
+}
+/* header css start here  */
+header
+{
+    width: 90%;
+    margin: auto;
+    margin-top: 40px;
+
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+nav{
+    width: 50%;
+    float: right;
+}
+nav ul{
+
+list-style: none;
+
+font-size: 14px;
+
+color: #626262;
+}
+nav ul li{
+
+/* list-style-type: none; */
+
+float: left;
+
+margin-left: 78px;
+font-family: 'Playfair Display', serif;
+
+/* margin-right: 2px; */
+}
+/* header css end here  */
+
+/* banner css start here  */
+.banner{
+    width: 90%;
+    margin: auto;
+}
+.banner img{
+    width: 100%;
+}
+
+
+/* banner css end here  */
